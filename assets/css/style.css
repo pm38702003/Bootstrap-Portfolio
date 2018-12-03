@@ -41,6 +41,16 @@ h1 {
     text-decoration: none;
     background: #4aaaa5;
   }
+
+  #imageCustomTextColorBG {
+          background: #4aaaa5;
+  }
+
+  .card-img-overlay{
+
+    padding:0;
+    bottom:10px;
+  }
      
 
    
